@@ -89,7 +89,7 @@ Configures reusable table view cells and loads poster images asynchronously.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/swift-networking.git
+git clone https://github.com/EEEEERIKO/swift-networking.git
 cd swift-networking
 ```
 
